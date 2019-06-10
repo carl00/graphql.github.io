@@ -21,6 +21,11 @@ var Site = require('../_core/Site');
  */
 var logos = [
   {
+    name: 'i22 Technologies',
+    img: 'https://i22.in/assets/new/images/i22_LogoIcon_square.png',
+    link: 'https://i22.in/'
+  },
+  {
     name: 'Facebook',
     img: 'facebook.png',
     link: 'https://www.facebook.com/'
